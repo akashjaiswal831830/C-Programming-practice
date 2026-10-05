@@ -1,2 +1,2 @@
-# pass-fail-cheaker
-A Simple C program to check pass and fail based on marks .
+Pass And Fail program 
+A Simple C Program To Check Pass And Fail Based On Their Marks .
